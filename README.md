@@ -8,3 +8,6 @@
 
 - TechLSTM: daily_data + LSTM (tf1) + talib + json
 
+## XGBoost
+
+- xgboost: xgb + GridSearchCV
