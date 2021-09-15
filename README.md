@@ -6,8 +6,12 @@
 
 ## LSTM
 
-- TechLSTM: daily_data + LSTM (tf1) + talib + json
+- TechLSTM: daily_data + LSTM (tf1) + talib + tuing with json
 
 ## XGBoost
 
-- xgboost: xgb (lgb) + GridSearchCV
+- xgboost: daily_data + xgb (lgb) + GridSearchCV
+
+## Deep Forest
+
+- deepForest: daily_data + gcforest + tuning with json
