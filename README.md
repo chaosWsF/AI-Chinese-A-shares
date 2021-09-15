@@ -15,3 +15,9 @@
 ## Deep Forest
 
 - deepForest: daily_data + gcforest + tuning with json
+
+## Backtest Framework
+
+- qstrader
+- customize
+- can be applied to HFT
