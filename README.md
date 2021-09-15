@@ -10,4 +10,4 @@
 
 ## XGBoost
 
-- xgboost: xgb + GridSearchCV
+- xgboost: xgb (lgb) + GridSearchCV
