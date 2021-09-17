@@ -15,3 +15,18 @@
 ## Deep Forest
 
 - deepForest: daily_data + gcforest + tuning with json
+
+## Backtest Framework
+
+- qstrader
+- customize
+- can be applied to HFT
+
+```
+from pandas.plotting import autocorrelation_plot
+
+sns.displot
+
+import statsmodels.api as sm
+sm.qqplot
+```
