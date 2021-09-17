@@ -1,4 +1,4 @@
-# Commdoity/Stock Futures Trading
+# Commodity/Stock Futures Trading
 
 ## Data
 
@@ -7,5 +7,5 @@
 
 ## Thoughts
     - buy and short
-    - index for backtesing
+    - index for backtesting
     - implied volatility
