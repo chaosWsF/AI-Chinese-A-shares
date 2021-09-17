@@ -6,7 +6,7 @@
 
 ## LSTM
 
-- TechLSTM: daily_data + LSTM (tf1) + talib + tuing with json
+- TechLSTM: daily_data + LSTM (tf1) + talib + tuning with json
 
 ## XGBoost
 
